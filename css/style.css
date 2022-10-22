@@ -2388,12 +2388,6 @@ border-radius: 10px;
 
 /*GENERALES*/
 
-@media (max-width:320px) {
-     .main-layout{
-     width:374px;
-}
-     
-}
 
 
 
@@ -2577,3 +2571,48 @@ border-radius: 10px;
           padding-top:14px;
 }
 }}
+
+
+/*PRODUCTOS*/
+
+
+/*alineacion de boton en el centro*/
+@media (max-width:320px) {
+     .read-more{
+          margin-left:40px;
+     }
+}
+
+
+/*TABLA DE COTIZACIONES*/
+
+@media (max-width:320px) {
+     td{
+          font-size: 10px;
+     }
+     th{
+          font-size:10px;
+     }
+}
+
+/*FORMULARIO DE CONTACTO*/
+
+/*centrar boton de enviar para celular 320px*/
+
+@media (max-width:320px) {
+     .send{
+          margin-left:50px;
+     }
+}
+
+
+/*FOOTER*/
+
+
+@media (max-width:320px) {
+     #index__footer__logo{
+          margin-bottom: 20px;
+          margin-left:55px;
+          
+     }
+}
