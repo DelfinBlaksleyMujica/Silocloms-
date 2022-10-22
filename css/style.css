@@ -2577,16 +2577,16 @@ border-radius: 10px;
 
 
 /*alineacion de boton en el centro*/
-@media (max-width:320px) {
+@media (max-width:374px) {
      .read-more{
-          margin-left:40px;
+          margin-left:67px;
      }
 }
 
 
 /*TABLA DE COTIZACIONES*/
 
-@media (max-width:320px) {
+@media (max-width:374px) {
      td{
           font-size: 10px;
      }
@@ -2599,9 +2599,9 @@ border-radius: 10px;
 
 /*centrar boton de enviar para celular 320px*/
 
-@media (max-width:320px) {
+@media (max-width:374px) {
      .send{
-          margin-left:50px;
+          margin-left:77px;
      }
 }
 
@@ -2609,10 +2609,10 @@ border-radius: 10px;
 /*FOOTER*/
 
 
-@media (max-width:320px) {
-     #index__footer__logo{
-          margin-bottom: 20px;
-          margin-left:55px;
+@media (max-width:374px) {
+     #index__footer__logo img{
+          margin-bottom: 15px;
+          margin-left: 80px;
           
      }
 }
