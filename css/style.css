@@ -2386,6 +2386,15 @@ border-radius: 10px;
 
 /**********OWN MEDIA QUARIES**********************/
 
+/*GENERALES*/
+
+@media (max-width:320px) {
+     .main-layout{
+     width:374px;
+}
+     
+}
+
 
 
 
